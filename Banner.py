@@ -45,3 +45,4 @@ def get_app_info():
         "author": "Zeeshan",
         "description": "Zee's Analyzer For Online Monitoring"
     }
+print("🤫")
